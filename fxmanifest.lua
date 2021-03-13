@@ -1,6 +1,6 @@
 fx_version 'bodacious'
 game 'gta5'
-description 'ESX Change Name'
+description 'ESX HUD Toggle'
 author 'Abel Gaming'
 version '1.0'
 
